@@ -1,0 +1,4 @@
+#Sat Jun 16 16:04:02 BRT 2018
+base.0=C\:\\Users\\AllanMagnum\\Documents\\Android\\AgendaAlunos\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
